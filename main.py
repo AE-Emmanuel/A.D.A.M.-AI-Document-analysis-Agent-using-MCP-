@@ -19,8 +19,8 @@ assert claude_model, "Error: MODEL cannot be empty. Update .env"
 assert openrouter_api_key, "Error: OPENROUTER_API_KEY cannot be empty. Update .env"
 
 async def main():
-    """Initializes and runs the CogniDocs agent with auto folder scanning."""
-    print("🚀 Starting CogniTalks Agent...")
+    """Initializes and runs the A.D.A.M. """
+    print("🚀 Starting A.D.A.M. ...")
     
     claude_service = Claude(model=claude_model)
     clients = {}
