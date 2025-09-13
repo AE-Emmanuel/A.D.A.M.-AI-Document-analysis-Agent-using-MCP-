@@ -1,0 +1,7 @@
+sample_doc.md
+.venv/
+.env
+__pycache__/
+*.pyc
+CACHEDIR.TAG
+.DS_Store
