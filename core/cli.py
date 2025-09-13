@@ -121,8 +121,8 @@ class CliApp:
 
     async def run(self):
         """The main interactive loop - PURE MCP with prompts"""
-        print("🚀 Personal Agent is ready!")
-        print("💡 Natural Language Commands:")
+        print("A.D.A.M. is ready!")
+        print(" Natural Language Commands:")
         print("   'find project with pyproject.toml'  - Find and load project")
         print("   'upload documents from ./docs'      - Upload directory")
         print("   'process file.pdf'                  - Process single file")
